@@ -39,6 +39,8 @@ Display the image found by the HoughLinesP() and end the program.
 ```python
 
 # Read image and convert it to grayscale image
+# DEVLOPED BY:MOHAED ASEEM
+# REG NO:212221230063
 
 import numpy as np
 import matplotlib.pyplot as plt
